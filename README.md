@@ -166,3 +166,7 @@ Created by [Harsh Gajjar](https://harshgajjar.vercel.app)
 ## 📝 Note
 
 This project is a learning fork of [HIA by harshhh28](https://github.com/harshhh28/hia), used to study RAG pipelines, multi-agent LLM apps, and Streamlit architecture. Original license (MIT) preserved.
+
+
+## 🔗 Live Demo
+[Try it here](https://hia-health-ai-agent-skntey5yrntgrdtv6rgj2s.streamlit.app)
