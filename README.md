@@ -161,3 +161,8 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 ## 🙋‍♂️ Author
 
 Created by [Harsh Gajjar](https://harshgajjar.vercel.app)
+
+
+## 📝 Note
+
+This project is a learning fork of [HIA by harshhh28](https://github.com/harshhh28/hia), used to study RAG pipelines, multi-agent LLM apps, and Streamlit architecture. Original license (MIT) preserved.
