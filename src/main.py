@@ -1,3 +1,5 @@
+# Customized by Aryan Patel — learning fork, based on HIA by harshhh28
+
 import streamlit as st
 from auth.session_manager import SessionManager
 from components.auth_pages import show_login_page
